@@ -7,7 +7,7 @@
 
 I've also do a line chart to present the trend of the stock you want to see.
 
-#這是一個使用Python撰寫對於臺灣股市網路爬蟲作品，資料來源為臺灣證券交易所
+# 這是一個使用Python撰寫對於臺灣股市網路爬蟲作品，資料來源為臺灣證券交易所
 
 1. 首先輸入證券號，例如：2330為台積電證券號所以請輸入2330。
 
