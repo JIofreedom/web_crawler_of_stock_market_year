@@ -1,4 +1,7 @@
-# This is a Python web crawler project of Taiwan stock market.
+# Python web crawler project of Taiwan stock market.
+
+This is a Python web crawler project of Taiwan stock market.
+
 1. First input is the No. of the Taiwan stock No.  Ex:2330 for TSMC please enter 2330.
 
 2. Second input is the year you want to see for the stock.  Ex: For 2020 please enter 2020.
@@ -7,7 +10,9 @@
 
 I've also do a line chart to present the trend of the stock you want to see.
 
-# 這是一個使用Python撰寫對於臺灣股市網路爬蟲作品，資料來源為臺灣證券交易所
+# 臺灣股市網路爬蟲作品
+
+這是一個使用Python撰寫對於臺灣股市網路爬蟲作品，資料來源為臺灣證券交易所
 
 1. 首先輸入證券號，例如：2330為台積電證券號所以請輸入2330。
 
